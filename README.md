@@ -1,2 +1,2 @@
-# circo-beat
+# Supportnova
 Repositorio del programa
